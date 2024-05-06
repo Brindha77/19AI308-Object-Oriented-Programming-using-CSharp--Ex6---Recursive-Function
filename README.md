@@ -18,7 +18,7 @@ Create a method (ReverseNumber) that takes an integer as input and returns its r
  Call the method with the remaining digits by dividing the number by 10.
 
 ## Program:
-### DEVELOPED BY : R.BRNDHA
+### DEVELOPED BY : R.BRINDHA
 ### REGISTER NO: 212222230023
 ```
 using System;
